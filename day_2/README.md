@@ -1,4 +1,4 @@
-### 2st day
+### 2nd day
 Learnt about Conditionals and various loops which included :-
 * If-else condition 
 * For loop
