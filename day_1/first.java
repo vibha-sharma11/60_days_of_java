@@ -33,11 +33,8 @@ public class first {
        int c = a + b ;
        System.out.println(c);
 
-       // BEST PRACTICE - make sure to check indentation of code while writting line by line to reduce the risk of bug while testing code hjv
+       // BEST PRACTICE - make sure to check indentation of code while writting line by line to reduce the risk of bug while testing the code
       
        //JAVA IS FOLLOWING UNICODE
-       
-       
-
       }
 }
