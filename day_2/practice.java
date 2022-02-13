@@ -15,7 +15,7 @@ public static void main(String[] args) {
         c = a + temp_var; 
         a = b; // reassigning values for further calculations
         b = c;
-        System.out.println(c);
+         System.out.println(c);
     }
 
     // Q-- Subtract the Product and Sum of Digits of an Integer
