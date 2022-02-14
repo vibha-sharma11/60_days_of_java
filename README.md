@@ -11,5 +11,5 @@ Hii!! This repository specifically focuses on my <b> Java + Data Structures and 
 > 13/02/2022, I Solved questions based on conditionals and loops to get hands on practice 
 * Follow this [ link ](https://github.com/vibha-sharma11/60_days_of_java/blob/5d0cf7ff92390c2e835bec04667983bf4715f7cb/day_3/README.md) for more.
 ### <b>4th day </b>
-> 14/02/2022, I Solved some questions as I was't feeling well
+> 14/02/2022, I Solved some questions as I couldn't do much bcoz of bad health!
 * Follow this [ link ](https://github.com/vibha-sharma11/60_days_of_java/blob/be0e6b8cc06c27cd188da9c520e45a459e07985a/day_4/README.md) for more.
