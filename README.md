@@ -18,3 +18,6 @@ Hii!! This repository specifically focuses on my <b> Java + Data Structures and 
 * Follow this [ link ](https://github.com/vibha-sharma11/60_days_of_java/blob/ae3c3b0c72697a4d608f42aa74d4aef89955008b/day_5/README.md) for more.
 ### HEALTH IS ABOVE ALL! 
 ### WILL BE BACK IN 15 DAYS AFTER MY SEMESTER END EXAMS ARE OVER !! WILL CONTINUE REVISING TILL THEN  
+## <b>7th day </b>
+> 4/04/2022, I revised about <b>flowcharts </b> and <b> pseudocodes </b> 
+* Follow this [ link ](https://github.com/vibha-sharma11/60_days_of_java/blob/5f82434b5b9aabf4bb55e77c8c4c576bd0a414f8/revision_day7/README.md) for more.
